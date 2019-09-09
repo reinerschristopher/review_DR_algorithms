@@ -1,0 +1,53 @@
+face_color
+
+def sumarize(x):
+	if x in [4, 5]:
+		return 4
+	if x in [6, 7, 8]:
+		return 5
+	if x in [9, 10]:
+		return 6
+
+df['face_color'] = df['face_color'].apply(sumarize)
+
+
+=========
+
+hair
+
+[0, 1, 2, 108, 110] keine
+[18, 19, 20, 21, 22, 109, 110] sehr wenige
+
+[17, 32, 44, 49, 61, 76, 83] kurz, etwas mehr
+[11, 12, 23, 31, 39] kurz, krause
+
+[10, 24, 30, 36, 37, 38, 88, 98, 104] mittel krause
+[43, 45, 46, 50, 52, 54, 62, 77] kurz, gestylt
+[89, 92, 99, 105, 107] kurz, runter, wellig
+[51, 53, 66, 72, 73, 74] kurz, runter, flach
+[60, 65, 67, 71, 75, 80, 81] kurz lang, flach
+
+[86, 90, 91, 94, 97, 101, 103] lockig, mittellang
+[6, 7, 13, 16] viele kleine locken, mittel lang
+[9, 26, 34, 106] mittel lang, wellig
+[40, 42, 47, 57, 63, 69, 79, 82] mittel lang, flach
+
+[25, 33, 78, 85, 87, 93, 100] lang, wellig
+
+[3, 4, 28, 29, 41, 96] zöpfe, mittellang
+[27, 35, 48, 56, 58, 59, 64, 70, 87, 95, 102] zopf, mittellang
+[55, 68, 84] zopf, hoch
+
+[8, 14] hoch, kleine locken
+[5, 15] afro
+
+= range(20) Total
+
+========
+
+facial_hair
+
+[1, 14] kein bart bzw Kotletten
+[4, 5, 6, 7, 12, 13] wenig haare
+[0, 8, 9, 10] leichter Bart um den Mund
+[2, 3, 11] sichtbarer Bart
