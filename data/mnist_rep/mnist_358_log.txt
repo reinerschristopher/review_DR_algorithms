@@ -1,0 +1,14 @@
+%============
+Source:
+mnist
+Algorithm:
+gumap
+Experiement:
+358
+n_samples, n_features:
+70000, 784
+fit time (perf_counter):
+6.372235569637269
+parameters:
+{'n_neighbors': 80, 'min_dist': 0.2}
+%============

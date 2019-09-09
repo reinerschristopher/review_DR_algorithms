@@ -1,0 +1,14 @@
+%============
+Source:
+cartoon10k
+Algorithm:
+umap
+Experiement:
+61
+n_samples, n_features:
+10000, 1000000
+fit time (perf_counter):
+19533.24961619987
+parameters:
+{'n_neighbors': 100, 'random_state': 2364}
+%============

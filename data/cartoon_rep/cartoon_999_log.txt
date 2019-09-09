@@ -1,0 +1,16 @@
+%============
+Source:
+cartoon
+Algorithm:
+pca
+Experiement:
+999
+n_samples, n_features:
+50000, 360000
+fit time (perf_counter):
+555.7712704143487
+parameters:
+{'n_components': 2}
+explained_variance_ratio:
+0.3195118484158704
+%============

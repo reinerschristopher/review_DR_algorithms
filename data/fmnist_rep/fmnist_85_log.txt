@@ -1,0 +1,14 @@
+%============
+Source:
+fmnist
+Algorithm:
+trimap
+Experiement:
+85
+n_samples, n_features:
+70000, 784
+fit time (perf_counter):
+235.20615867804736
+parameters:
+{'n_inliers': 40}
+%============

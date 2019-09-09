@@ -1,0 +1,16 @@
+%============
+Source:
+fmnist
+Algorithm:
+pca
+Experiement:
+999
+n_samples, n_features:
+70000, 784
+fit time (perf_counter):
+1.268952073995024
+parameters:
+{'n_components': 2}
+explained_variance_ratio:
+0.46795049764076624
+%============

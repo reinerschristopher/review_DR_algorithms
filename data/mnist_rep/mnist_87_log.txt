@@ -1,0 +1,14 @@
+%============
+Source:
+mnist
+Algorithm:
+trimap
+Experiement:
+87
+n_samples, n_features:
+70000, 784
+fit time (perf_counter):
+237.31552400207147
+parameters:
+{'n_outliers': 20}
+%============

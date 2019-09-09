@@ -1,0 +1,14 @@
+%============
+Source:
+mnist
+Algorithm:
+umap
+Experiement:
+72
+n_samples, n_features:
+70000, 784
+fit time (perf_counter):
+634.4616189310327
+parameters:
+{'n_neighbors': 20, 'random_state': 2364}
+%============

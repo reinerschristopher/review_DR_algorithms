@@ -1,0 +1,16 @@
+%============
+Source:
+mnist
+Algorithm:
+pca
+Experiement:
+999
+n_samples, n_features:
+70000, 784
+fit time (perf_counter):
+1.3554074929561466
+parameters:
+{'n_components': 2}
+explained_variance_ratio:
+0.16901560461913306
+%============

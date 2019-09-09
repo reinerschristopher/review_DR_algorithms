@@ -1,0 +1,14 @@
+%============
+Source:
+cartoon
+Algorithm:
+trimap
+Experiement:
+87
+n_samples, n_features:
+10000, 360000
+fit time (perf_counter):
+331.6102745500393
+parameters:
+{'n_outliers': 20}
+%============

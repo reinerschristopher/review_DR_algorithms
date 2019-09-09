@@ -1,0 +1,14 @@
+%============
+Source:
+fmnist
+Algorithm:
+umap
+Experiement:
+70
+n_samples, n_features:
+70000, 784
+fit time (perf_counter):
+242.5974716390483
+parameters:
+{'n_neighbors': 5, 'random_state': 2364}
+%============

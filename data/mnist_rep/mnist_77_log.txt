@@ -1,0 +1,14 @@
+%============
+Source:
+mnist
+Algorithm:
+tsne
+Experiement:
+77
+n_samples, n_features:
+70000, 784
+fit time (perf_counter):
+7421.611222570762
+parameters:
+{'perplexity': 20, 'random_state': 2364}
+%============

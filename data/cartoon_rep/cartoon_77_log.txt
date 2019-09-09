@@ -1,0 +1,14 @@
+%============
+Source:
+cartoon
+Algorithm:
+tsne
+Experiement:
+77
+n_samples, n_features:
+10000, 360000
+fit time:
+63565.037623899
+parameters:
+{'perplexity':20, 'random_state': 2364}
+%============

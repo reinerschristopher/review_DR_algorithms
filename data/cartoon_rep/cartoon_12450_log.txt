@@ -1,0 +1,14 @@
+%============
+Source:
+cartoonpca784
+Algorithm:
+gumap
+Experiement:
+124
+n_samples, n_features:
+70000, 784
+fit time (perf_counter):
+7.495402197819203
+parameters:
+{'n_neighbors': 100}
+%============

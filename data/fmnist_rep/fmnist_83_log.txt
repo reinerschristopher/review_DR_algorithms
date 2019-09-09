@@ -1,0 +1,14 @@
+%============
+Source:
+fmnist
+Algorithm:
+opentsne
+Experiement:
+83
+n_samples, n_features:
+70000, 784
+fit time (perf_counter):
+724.6670960281044
+parameters:
+{'perplexity': 40, 'random_state': 2364}
+%============

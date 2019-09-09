@@ -1,0 +1,14 @@
+%============
+Source:
+cartoon
+Algorithm:
+tsne
+Experiement:
+100
+n_samples, n_features:
+10000, 360000
+fit time:
+64782.745679374995
+parameters:
+{'init':'pca', 'random_state':2364}
+%============
